@@ -9,7 +9,7 @@
   "NFT_NAME": "Cool Girls World",
   "SYMBOL": "CGW",
   "MAX_SUPPLY": 500,
-  "WEI_COST":0,
+  "WEI_COST":20000000000000000,
   "DISPLAY_COST": 0.00,
   "GAS_LIMIT": 223530,
   "MARKETPLACE": "Opeansea",
